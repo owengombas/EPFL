@@ -7,9 +7,15 @@
 ### Housing
 * [Housing in Lausanne [FR/EN]](https://logement.epfl.ch/)
 * [Facebook group for housing in Lausanne [FR]](https://www.facebook.com/groups/330486193693264/)
+### Job
+* [Find a job [FR/EN]](https://sae.epfl.ch/travail)
 ### Social
 * [Facebook [FR]](https://www.facebook.com/epflcampus/)
 * [YouTube - Students [FR/EN]](https://www.youtube.com/user/EPFLstudents/)
 * [YouTube - EPFL [EN]](https://www.youtube.com/user/epflnews/)
 * [Twitter [FR]](https://twitter.com/EPFL)
 * [Twitter [EN]](https://twitter.com/EPFL_en)
+
+# Some prices (Not exact)
+To the Master -> 8756CHF (With long programmes -> 1160CHF)
+Housing -> 750 per month -> 9000 per year -> 54000 for 6 years

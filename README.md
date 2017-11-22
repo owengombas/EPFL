@@ -7,7 +7,7 @@
 ### Housing
 * [Housing in Lausanne [FR/EN]](https://logement.epfl.ch/)
 * [Facebook group for housing in Lausanne [FR]](https://www.facebook.com/groups/330486193693264/)
-## Social
+### Social
 * [Facebook [FR]](https://www.facebook.com/epflcampus/)
 * [YouTube - Students [FR/EN]](https://www.youtube.com/user/EPFLstudents/)
 * [YouTube - EPFL [EN]](https://www.youtube.com/user/epflnews/)

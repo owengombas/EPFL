@@ -17,5 +17,5 @@
 * [Twitter [EN]](https://twitter.com/EPFL_en)
 
 # Some prices (Not exact)
-* To the Master -> **8756.-** (With long programmes -> **1160.-**)
-* Housing -> **750.-/month** (**54000.-** for 6 years)
+* To the Master -> **8'756.-** (With long programmes -> **1'160.-**)
+* Housing -> **750.-/month** (**54'000.-** for 6 years)

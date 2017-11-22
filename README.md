@@ -17,5 +17,5 @@
 * [Twitter [EN]](https://twitter.com/EPFL_en)
 
 # Some prices (Not exact)
-* To the Master -> 8756CHF (With long programmes -> 1160CHF)
-* Housing -> 750 per month -> 9000 per year -> 54000 for 6 years
+* To the Master -> **8756.-** (With long programmes -> **1160.-**)
+* Housing -> **750.-/month** (**54000.-** for 6 years)
